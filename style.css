@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    font-family:sans-serif;
+}
+.all {
+    width:400px;
+    margin:auto;
+    padding:50px;
+    color:#333333;
+}
+form {
+    display:flex;
+    justify-content:space-between;
+    background-color:#FAFAF9;
+    padding:10px;
+    outline:none;
+}
+.all  .one img {
+    width:200px;
+}
+.all .two .btn {
+    background-color:#F17160;
+    border:none;
+    width:100%;
+    padding:5px;
+    cursor:pointer;
+}
